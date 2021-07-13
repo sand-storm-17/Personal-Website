@@ -1,0 +1,25 @@
+.header{
+    display: flex;
+    padding-left: 2rem;
+}
+p{
+  padding: 10px;  
+}
+
+.nav-link{
+    padding:0 2rem;
+}
+
+.nav-link-pos{
+    position:absolute;
+    right:0;
+    display:flex;
+}
+
+.nav{
+    display:flex;
+    background-color:rgb(35, 199, 199);
+}
+a{
+    color:inherit;
+}

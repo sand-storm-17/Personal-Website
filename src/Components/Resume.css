@@ -1,0 +1,50 @@
+.head{
+    display: flex;
+    padding: 20rem;
+    background-color: rgb(228, 225, 225);
+}
+.inner{
+    margin: auto;
+    display: flex;
+}
+
+.pic{
+    max-height: 500px;
+    border-radius: 100%;
+}
+
+.education{
+    display:flex;
+    padding-left: 10rem;
+    padding-bottom: 3rem;
+    background-color: rgb(238, 232, 238);
+}
+
+.projects{
+    display:flex;
+    padding-left: 10rem;
+    padding-bottom: 3rem;
+    background-color: rgb(170, 226, 188);
+}
+
+.skills{
+    display:flex;
+    padding-left: 10rem;
+    padding-bottom: 3rem;
+    background-color: rgb(223, 222, 203);
+}
+.info-edu{
+    padding-left: 10rem;
+}
+
+.big{
+    font-size: 100px;
+}
+
+.big2{
+    font-size: 50px;
+}
+
+p{
+    font-size: 20px
+}

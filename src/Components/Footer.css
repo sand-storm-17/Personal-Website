@@ -1,0 +1,10 @@
+.info{
+    font-size: 20px;
+    padding:1rem 5rem;
+}
+.footer{
+    padding-left: 20rem;
+}
+.foot{
+    display:flex;
+}
