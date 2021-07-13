@@ -12,6 +12,8 @@
     "web-vitals": "^1.1.2"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -23,6 +25,7 @@
       "react-app/jest"
     ]
   },
+  "homepage": "https://sand-storm-17.github.io/Personal-Website",
   "browserslist": {
     "production": [
       ">0.2%",
@@ -35,4 +38,6 @@
       "last 1 safari version"
     ]
   }
+ 
 }
+
